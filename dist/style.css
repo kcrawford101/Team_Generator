@@ -10,11 +10,6 @@ body {
     justify-content: center;    
 }
 
-
-html {
-    height: 100vh;
-}
-
 h1 {    
     font-size: 75px;
     background-color: rgb(64, 157, 211);
