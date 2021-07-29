@@ -33,27 +33,25 @@ main {
 
 .card {
     margin: 20px;
-    border-radius: 5px;
+    border-radius: 10px;
 }
 
 .card-body {
-    background-color: var(--alice-blue);
+    background-color:rgb(64, 157, 211);
     border-radius: 5px;
-    box-shadow: 5px 5px 10px var(--space-cadet);
-    padding: 10px 10px 10px 10px;
+    box-shadow: 8px 6px 15px rgb(87, 87, 87);
+    padding: 10px;
 }
 
 .card-title {    
     font-size: 30px;
     margin: 0px;
-    padding: 5px 5px 10px 5px;
-    background-color: var(--manatee);
-    color: var(--space-cadet);
+    padding: 5px 5px 10px 5px;    
+    color: #ffffff;
 }
 
 .card-subtitle {
     margin: 0px;
-    padding: 5px 5px 10px 5px;
-    background-color: var(--manatee);
-    color: var(--imperial-red);
+    padding: 5px 5px 10px 5px;    
+    color: #ffffff;
 }
